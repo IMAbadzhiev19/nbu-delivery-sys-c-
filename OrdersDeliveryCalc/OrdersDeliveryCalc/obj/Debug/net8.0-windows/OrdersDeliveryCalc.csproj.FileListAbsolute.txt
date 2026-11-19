@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.MainForm.resources
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.AssemblyInfo.cs
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\bin\Debug\net8.0-windows\OrdersDeliveryCalc.exe
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\bin\Debug\net8.0-windows\OrdersDeliveryCalc.deps.json
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\bin\Debug\net8.0-windows\OrdersDeliveryCalc.runtimeconfig.json
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\bin\Debug\net8.0-windows\OrdersDeliveryCalc.dll
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\bin\Debug\net8.0-windows\OrdersDeliveryCalc.pdb
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.dll
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\refint\OrdersDeliveryCalc.dll
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.pdb
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\OrdersDeliveryCalc.genruntimeconfig.cache
+C:\Users\User\source\repos\OrdersDeliveryCalc\OrdersDeliveryCalc\obj\Debug\net8.0-windows\ref\OrdersDeliveryCalc.dll
